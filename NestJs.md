@@ -27,3 +27,9 @@
 ## Install CLI
 ###  sudo npm i -g @nestjs/cli
 ### nest -v
+#
+## Install Postman
+### curl -o- "https://dl-cli.pstmn.io/install/linux64.sh" | sh
+#
+## Install Docker
+###
