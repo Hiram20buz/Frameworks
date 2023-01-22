@@ -48,4 +48,12 @@
 ### cd hello-nest
 ### nest start --watch
 ### open localhost:3000 on the browser or http://localhost:3000/
+![][netjs1.png]
 #
+## Links
+### https://kinsta.com/blog/how-to-install-node-js/
+### https://haquemousume.medium.com/how-to-run-postman-requests-tests-from-command-line-newman-f012afb06564
+### https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04
+### https://www.simplilearn.com/tutorials/docker-tutorial/how-to-install-docker-on-ubuntu
+### https://www.npmjs.com/package//typescript
+### 
