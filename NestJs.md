@@ -26,4 +26,4 @@
 #
 ## Install CLI
 ###  sudo npm i -g @nestjs/cli
-### nest -V
+### nest -v
