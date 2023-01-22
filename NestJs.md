@@ -47,5 +47,5 @@
 ### npm install -g typescript
 ### cd hello-nest
 ### nest start --watch
-### open localhost:3000 on the browser
+### open localhost:3000 on the browser or http://localhost:3000/
 #
