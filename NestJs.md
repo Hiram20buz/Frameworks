@@ -23,3 +23,6 @@
 ### sudo apt-get install -y nodejs
 ### node --version
 ### npm --version
+#
+## Install CLI
+###
