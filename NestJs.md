@@ -45,3 +45,7 @@
 ## Hello world in NestJS
 ### nest new helloNest
 ### npm install -g typescript
+### cd hello-nest
+### nest start --watch
+### open localhost:3000 on the browser
+#
