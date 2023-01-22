@@ -16,4 +16,8 @@
 ### Moreover, TypeScript provides various other features, like interfaces, type aliases, abstract classes, function overloading, tuple, generics, etc.
 #
 ## How to install NestJs
-###
+### Step 1:Install NodeJS
+### Step 2:
+#
+## Installl NodeJS
+### sudo apt-get install -y nodejs
