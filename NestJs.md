@@ -43,4 +43,5 @@
 ### sudo systemctl status docker
 #
 ## Hello world in NestJS
-### 
+### nest new helloNest
+### npm install -g typescript
